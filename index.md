@@ -24,7 +24,7 @@ It can be used to access this new wallet from anywhere, even if your computer is
 ### And, that's it...
 This is your new address, which can be copied and shared publicly with anyone who wants to send you tokens
 ![Capture5](https://user-images.githubusercontent.com/98060724/150266669-317c8be4-4914-400d-8ab5-83962ca50dba.JPG)
-### And when you have tokens, you can easily send them to anyone elses address.
+And when you have tokens, you can easily send them to anyone elses address.
 ![Capture6](https://user-images.githubusercontent.com/98060724/150266670-e795778f-1724-4bd3-94f6-bc40ce294a80.JPG)
 
 It really is just that simple.
