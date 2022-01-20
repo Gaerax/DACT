@@ -31,7 +31,7 @@ It really is just that simple.
 
 ## What will this project look like?
 
-We will create 1 billion of this new token, and set up two system to distribute them over time. One will be designed in a way that supports current and future creators for decades to come. The other will be set up to support community growth, platform development, and other fun stuff.
+We will create 1 billion of this new token, and set up two system to distribute them over time. One will be designed in a way that supports current and future creators for decades to come. The other will be set up to support long term community growth, platform development, and other fun stuff.
 
 ![Diagram1](https://user-images.githubusercontent.com/98060724/150404248-29264cba-cae9-4e5d-b2f5-938993d02fbb.JPG)
 
@@ -42,7 +42,7 @@ Creators will be encouraged to distribute some of their tokens to their Patreon 
 
 ![Diagram2](https://user-images.githubusercontent.com/98060724/150404254-7e85ae22-8106-4c35-8fe8-22d69a45c2b2.JPG)
 
-This economy would not immediately make us rich, or replace our existing income streams. It will mostly just be a fun way to reward our supportors and play around with the technology. However, over time, as more people get involved and this economy grows, demand for the token will rise.
+This economy would not immediately make us rich, or replace our existing income streams. It will mostly just be a fun way to reward our supportors and get more community engagement. However, over time, as more people get involved and this economy grows, demand for the token will rise.
 
 ## How will creators make money with this?
 The token will be worthless when it is created. It's value will come from it's use, and its price will go up as demand for the token grows. Tokens are are a [zero sum game](https://en.wikipedia.org/wiki/Zero-sum_game) Which basically means the price goes up when people want to buy, and down when people want to sell. So the questions are "Who wants to buy? Who wants to sell? And why?" It is basic supply and demand.
@@ -51,7 +51,7 @@ The token will be worthless when it is created. It's value will come from it's u
 
 Because of the Creator Fund (and the Community Fund) a large community of individual creators will hold and control most of the supply. Therefor, they will benifit the most, as they should. If outside investors, or players want to buy more of the token, they will have to either earn it by supporting us, or buy it from us, because we control the majority of the supply. It is the balance between buy pressure and sell pressure that determines the price of the token. This is a bit complicated, but that is just how markets work.
 
-On an individual level, you as a creator would be given a chunk of the token for free that you can do whatever you want with. You could give some to supporters as rewards, earn them back through various methods, and if/when you want to sell some of them, you could do that.
+On an individual level, you as a creator would be given a chunk of the Creator Fund for free that you can do whatever you want with. You could give some to supporters as rewards, earn them back through various methods, and if/when you want to sell some of them, you could do that.
 
 # I want to know more!!!
 That is great! If you want to know more, please read the original [proposal](https://docs.google.com/document/d/1on8iOAqDanLlNEEjEtr6BYM1hGkWSIcF3J8BzRvUUB0) and come chat with us on [Discord](https://discord.gg/bfxYsvMV)
