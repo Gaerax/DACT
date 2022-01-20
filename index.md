@@ -2,7 +2,7 @@
 #### A Cryptocurrency Token for the Adult Games and Art Community
 
 ## What is a cryptocurrency token?
-A token is a cryptocurrency that is easy to create. They are created using platforms created by a real cryptocurrency projects. We would create one to launch our own currency for use in our own community. This token would have all of the features and functionality of a real cryptocurrency, without the complicated software development that goes into creating a cryptocurrency from scratch.
+A token is a cryptocurrency that is easy to create. They are created using the platforms created by a real cryptocurrency projects. We would create one to launch our own currency for use in our own community. This token would have all of the features and functionality of a real cryptocurrency, without the complicated software development that goes into creating a cryptocurrency from scratch.
 
 Basically, it is magic internet money that we can do whatever we want with.
 
@@ -21,7 +21,7 @@ In this example we will be using goby, a browser extension-based crypto wallet. 
 ### Write down your private mnemonic, and keep it safe.
 It can be used to access this new wallet from anywhere, even if your computer is lost or destroyed. (Don't share it with anyone, they could use it to steal everything in the wallet)
 ![Capture4](https://user-images.githubusercontent.com/98060724/150266668-dc180dcb-ba16-445c-b915-af50f03e95c5.JPG)
-### And, thats is...
+### And, that's it...
 This is your new address, which can be copied and shared publicly with anyone who wants to send you tokens
 ![Capture5](https://user-images.githubusercontent.com/98060724/150266669-317c8be4-4914-400d-8ab5-83962ca50dba.JPG)
 ### And when you have tokens, you can easily send them to anyone elses address.
@@ -31,7 +31,7 @@ It really is just that simple.
 
 ## What will this project look like?
 
-We will create 1 billion of this new token, and set up a system to distribute them over time. The 1 billion tokens will be used to create two systems. One will be designed in a way that supports current and future creators for decades to come. The other will be set up to support community growth, platform development, and other fun stuff.
+We will create 1 billion of this new token, and set up two system to distribute them over time. One will be designed in a way that supports current and future creators for decades to come. The other will be set up to support community growth, platform development, and other fun stuff.
 
 ![Diagram1](https://user-images.githubusercontent.com/98060724/150404248-29264cba-cae9-4e5d-b2f5-938993d02fbb.JPG)
 
