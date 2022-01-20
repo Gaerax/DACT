@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Digital Adult Content Token
+## A Cryptocurrency token for the Adult Games and Art Community
 
-You can use the [editor on GitHub](https://github.com/Gaerax/DACTWebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#This sound complicated...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I know right!! It can seem overwhelming, but using it is actually very easy... This is a quick demonstration of how simple it would be for someone in your community to use this token.
 
-### Markdown
+##Creating a wallet.
+In this example we will be using goby, a browser extension based crypto wallet. There are several different wallets that you can use, goby is just one option that does a good job of showing how simple all of this can be.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Just install goby in google chrome
+![Capture](https://user-images.githubusercontent.com/98060724/150266661-19ea2b2e-f44c-411a-be89-d28d9277d2c2.JPG)
+### Open up goby, and set a password
+![Capture2](https://user-images.githubusercontent.com/98060724/150266665-37658657-c246-4955-8076-e0516008a9bd.JPG)
+### Create your wallet
+![Capture3](https://user-images.githubusercontent.com/98060724/150266667-ce953482-cc88-4e4c-938e-235ee37261ce.JPG)
+### Write down your private mnemonic, which can be used to access this new wallet from anywhere, even if your computer is lost.
+![Capture4](https://user-images.githubusercontent.com/98060724/150266668-dc180dcb-ba16-445c-b915-af50f03e95c5.JPG)
+### And, thats is... This is your new address, which can be shared publicly, so anyone can send you tokens
+![Capture5](https://user-images.githubusercontent.com/98060724/150266669-317c8be4-4914-400d-8ab5-83962ca50dba.JPG)
+### And you can easily send tokens to anyone elses address.
+![Capture6](https://user-images.githubusercontent.com/98060724/150266670-e795778f-1724-4bd3-94f6-bc40ce294a80.JPG)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gaerax/DACTWebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+It really is just that simple.
