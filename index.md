@@ -1,8 +1,14 @@
 # Digital Adult Content Token
 #### A Cryptocurrency Token for the Adult Games and Art Community
 
+There is a lot of concern going around about how Patreon views adult content, and what would happen to us if Patreon decided to ban the content that we create. I think everyone is right to be worried, most of us rely very heavily on Patreon and we have almost no control over our futures. Patreon could ban any one of us, or all of us at any moment, and there is almost nothing we could do to stop them. I also don't have faith that Steam, or any other platform would be any different. Even though the content that we create is totally legal, the credit card companies, and platforms like Patreon have complete control over us. They stand between us and our customers, and there is real alternative to dealing with them. If we want to continue to exist, and to secure our futures I think it is important that we slowly move towards something owned and controlled by us for us. 
+
+There is a lot of negative opinions and criticisms around cryptocurrencies, some of it is valid, some of it is misguided. It is a very complicated and nuanced convesation. I would like you to put aside any negative opinions and imagine what this could be for us, and not focus on the dumpster fire that is the majority of the crypto world. I believe that if we work together we can create a system that is much better than the Patreon model that we have now.
+
+I believe that the best way to create this new system is creating a cryptocurrency token for our community. I would like to share my plan for what this system could look like, and to get more people on board with this idea, because something like this will only work if it is a large and collaborative community effort.
+
 ## What is a cryptocurrency token?
-A token is a cryptocurrency that is easy to create. They are created using the platforms created by a real cryptocurrency projects. We would create one to launch our own currency for use in our own community. This token would have all of the features and functionality of a real cryptocurrency, without the complicated software development that goes into creating a cryptocurrency from scratch.
+A token is basically a cryptocurrency that is easy to create. They are created using the platforms created by real cryptocurrency projects. We would create our own token to be used in a new economy between all of us creators, and our audiences. This token would have all of the features and functionality of a real cryptocurrency, without the complicated software development that goes into creating a cryptocurrency from scratch.
 
 Basically, it is magic internet money that we can do whatever we want with.
 
