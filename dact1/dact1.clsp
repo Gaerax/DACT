@@ -1,0 +1,21 @@
+(mod (
+      GENESIS_ID
+      Truths
+      parent_is_cat
+      lineage_proof
+      delta
+      inner_conditions
+      _
+    )
+
+    (include cat_truths.clib)
+
+    (if delta
+        () ; Allow melting for conversion into future coins
+        (if (= (my_parent_cat_truth Truths) GENESIS_ID)
+          () ; Create the coins. This can only happen during the initial minting.
+          (x)
+        )
+    )
+
+)

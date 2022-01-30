@@ -1,0 +1,39 @@
+(mod (
+        RELEASE_PERCENTAGE
+        WAIT_TIME
+        RELEASE_PUZZLE_HASH
+        my_puzzlehash
+        my_amount
+        new_amount
+    )
+    (include condition_codes.clib)
+
+    (defun-inline release_funds (RELEASE_PUZZLE_HASH WAIT_TIME my_amount release_amount my_puzzlehash)
+        (list
+            (list CREATE_COIN RELEASE_PUZZLE_HASH release_amount)
+            (list CREATE_COIN my_puzzlehash (- my_amount release_amount))
+            (list ASSERT_SECONDS_RELATIVE WAIT_TIME)
+            (list ASSERT_MY_AMOUNT my_amount)
+            (list ASSERT_MY_PUZZLEHASH my_puzzlehash)
+        )
+    )
+
+    (defun-inline add_funds (my_amount new_amount my_puzzlehash)
+        (list
+            (list CREATE_COIN my_puzzlehash new_amount)
+            (list ASSERT_MY_AMOUNT my_amount)
+            (list ASSERT_MY_PUZZLEHASH my_puzzlehash)
+            (list CREATE_COIN_ANNOUNCEMENT new_amount)
+        )
+    )
+
+    ; main
+    (if (= new_amount 0)
+        (release_funds RELEASE_PUZZLE_HASH WAIT_TIME my_amount (* my_amount (/ RELEASE_PERCENTAGE 100)) my_puzzlehash)
+        (if (> new_amount (+ 30000000000 my_amount))
+            (add_funds my_amount new_amount my_puzzlehash)
+            (x)
+        )
+    )
+    
+)
