@@ -60,4 +60,4 @@ Because of the Creator Fund (and the Community Fund) a large community of indivi
 On an individual level, you as a creator would be given a chunk of the Creator Fund for free that you can do whatever you want with. You could give some to supporters as rewards, earn them back through various methods, and if/when you want to sell some of them, you could do that.
 
 # I want to know more!!!
-That is great! If you want to know more, please read the original [proposal](https://docs.google.com/document/d/1on8iOAqDanLlNEEjEtr6BYM1hGkWSIcF3J8BzRvUUB0) for more details. Then come chat with us on [Discord](https://discord.gg/bfxYsvMV)
+That is great! If you want to know more, please read the original [proposal](https://docs.google.com/document/d/1on8iOAqDanLlNEEjEtr6BYM1hGkWSIcF3J8BzRvUUB0) for more details. Then come chat with us on [Discord](https://discord.gg/m3E6GNUtfB)
